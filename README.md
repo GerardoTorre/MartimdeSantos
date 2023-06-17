@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Pauzovzki
+- 👋 Hi, I’m @gerardo
 - 👀 I’m interested programming, philosophy, languages and mathematics.
-- 🌱 I’m currently learning rust.
-- 💞️ I’m looking to collaborate on any projetct.
-- 📫 How to reach me Dms or dont
+- 🌱 I’m currently learning python and life in general
